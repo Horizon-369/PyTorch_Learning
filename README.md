@@ -11,10 +11,14 @@ Welcome to my PyTorch learning repository! This is a collection of my notes, cod
 2. **pytorch_workflow**
    - **Date Completed:** 27/08/2024
    - **Description:** This module focuses on the PyTorch workflow, including data loading, model training, and evaluation. It covers best practices for structuring PyTorch projects and effectively managing the training process.
-   - 
+     
 2. **pytorch_neural_network_classification**
    - **Date Completed:** 29/08/2024
    - **Description:** This module delves into building and training neural networks for classification and mullti-class classification tasks. It covers concepts such as fully connected layers, activation functions, loss functions, and optimizers. The module also explores how to evaluate and improve the performance of classification models.
+   - 
+2. **pytorch_computer_vision**
+   - **Date Completed:** 1/09/2024
+   - **Description:** This module focuses on computer vision tasks using PyTorch. It includes techniques for image classification.
 
 ## Next Steps
 
