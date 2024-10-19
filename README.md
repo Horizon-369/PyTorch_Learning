@@ -41,8 +41,8 @@ Welcome to my PyTorch learning repository! This is a collection of my notes, cod
    - **Description:** This module focuses on how to implement machine learning research papers in code and explicitly implements ViT(Vision Transformer) paper in code using PyTorch.
 
 10. **pytorch_model_deployment**
-   - **Date Completed:** 10/10/2024
-   - **Description:** This module focuses on implementing pretrained models efficientNetB2 and vision transformer on our custom pizza, steak and sushi also on the food101 dataset and then how to deploy it by making gradio interface on Hugging Face Spaces using PyTorch.
+      - **Date Completed:** 10/10/2024
+      - **Description:** This module focuses on implementing pretrained models efficientNetB2 and vision transformer on our custom pizza, steak and sushi also on the food101 dataset and then how to deploy it by making gradio interface on                Hugging   Face Spaces using PyTorch.
 
 ## Next Steps
 
